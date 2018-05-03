@@ -1,0 +1,22 @@
+{
+  "name": "project7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "jshint"
+  },
+  "engines": {
+    "node": "6.3.1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "moment": "^2.15.1",
+    "twitter": "^1.4.0"
+  },
+  "devDependencies": {}
+}
