@@ -1,5 +1,5 @@
 ## Twitter interface with Node, Express and Jade
-*Project 7 of Treehouse Full Stack JavaScript course*
+
 
 ### Project objectives:
 Use Node and Twitter’s REST API to access your Twitter profile information, then render the data to a user via Jade templates and an Express route. Overall, the project offers some key takeaways:
